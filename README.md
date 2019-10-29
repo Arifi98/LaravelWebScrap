@@ -1,0 +1,2 @@
+# LaravelWebScrap
+scrap news 
